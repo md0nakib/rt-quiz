@@ -1,11 +1,27 @@
 const quizData = [
     {
-        question: "what's your profations",
+        question: "<h1>what's your profations</h1>",
         a: "web devolopment",
         b: "grapic design",
         c: "hacking",
         d: "900",
-        correct: "d,a",
+        correct: "d",
+    },
+        {
+        question: "What does CSS stand for?",
+        a: "Central Style Sheets",
+        b: "Cascading Style Sheets",
+        c: "Cascading Simple Sheets",
+        d: "Cars SUVs Sailboats",
+        correct: "b",
+    },
+        {
+        question: "What does CSS stand for?",
+        a: "Central Style Sheets",
+        b: "Cascading Style Sheets",
+        c: "Cascading Simple Sheets",
+        d: "Cars SUVs Sailboats",
+        correct: "b",
     },
         {
         question: "What does CSS stand for?",
